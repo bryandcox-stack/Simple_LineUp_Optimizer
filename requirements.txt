@@ -1,0 +1,27 @@
+# Baseball Lineup Optimizer - Python Dependencies
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required for core functionality.
+#
+# The following modules are used (all part of Python standard library):
+# - csv: CSV file reading and writing
+# - random: Random number generation and sampling  
+# - statistics: Statistical calculations (mean, stdev)
+# - argparse: Command line argument parsing
+# - time: Timing and performance measurement
+# - typing: Type hints and annotations
+#
+# Minimum Python version: 3.6+
+# Recommended Python version: 3.8+
+#
+# To install (if needed):
+# pip install -r requirements.txt
+#
+# No additional packages required - this file exists for compatibility
+# and potential future enhancements that may require external dependencies.
+
+# Future optional enhancements could include:
+# numpy>=1.19.0          # For advanced statistical operations
+# pandas>=1.3.0          # For enhanced data manipulation  
+# matplotlib>=3.3.0      # For visualization and plotting
+# scipy>=1.7.0           # For advanced optimization algorithms
